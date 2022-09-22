@@ -7,4 +7,5 @@
  <br><br>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=newbill&count_private=true&show_icons=true" />
  <br><br>
+ <img align="center" src="https://sn.pic.cdn.lkxin.cn/2022/09/22/632bcb6b60c56.gif">
 </h3>
