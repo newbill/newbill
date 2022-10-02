@@ -3,7 +3,7 @@
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  <br><br>
  <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=newbill">
- <a href="https://d.sv" align="center"><img align="center" src="https://img.shields.io/badge/Blog-d.sv-red"></a>
+ <a href="https://dai.im" align="center"><img align="center" src="https://img.shields.io/badge/Blog-dai.im-red"></a>
  <br><br>
  <img align="center" src="https://stats.dai.im/api?username=newbill&count_private=true&show_icons=true" />
  <br><br>
